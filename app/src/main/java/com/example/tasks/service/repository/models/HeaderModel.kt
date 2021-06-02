@@ -1,4 +1,4 @@
-package com.example.tasks.service
+package com.example.tasks.service.repository.models
 
 import com.google.gson.annotations.SerializedName
 
